@@ -2,6 +2,7 @@
   <ion-page>
     <ion-content>
       <h1>Sub 2</h1>
+      <router-link to="/a">a</router-link>
     </ion-content>
   </ion-page>
 </template>
